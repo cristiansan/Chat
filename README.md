@@ -1,3 +1,3 @@
 Programa de chat basado en socket.
-Cliente-Servidor
-Permite multiples instancias
+Cliente-Servidor usando pyhon.
+Permite multiples instancias.
